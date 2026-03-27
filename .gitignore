@@ -22,3 +22,7 @@
 .eslintcache
 .cspellcache
 package-lock.json
+.gitnexus
+.claude/
+CLAUDE.md
+AGENTS.md
