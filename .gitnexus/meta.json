@@ -1,0 +1,12 @@
+{
+  "repoPath": "D:/ai-workspace/webpack",
+  "lastCommit": "0b71c74d2c40456f0f8390b389a1015e7584abdc",
+  "indexedAt": "2026-03-27T03:45:47.028Z",
+  "stats": {
+    "files": 8908,
+    "nodes": 18693,
+    "edges": 38741,
+    "communities": 841,
+    "processes": 300
+  }
+}

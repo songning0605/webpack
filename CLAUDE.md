@@ -3,7 +3,7 @@ AGENTS.md
 <!-- gitnexus:start -->
 # GitNexus MCP
 
-This project is indexed by GitNexus as **webpack** (18693 symbols, 38751 relationships, 300 execution flows).
+This project is indexed by GitNexus as **webpack** (18693 symbols, 38741 relationships, 300 execution flows).
 
 ## Always Start Here
 
